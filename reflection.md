@@ -1,0 +1,4 @@
+Reflection
+================
+
+When looking back at this project, I wanted to completely rework it. I knew that I could do a much better job than I had previously shown, and I was honestly upset with my lack of effort. I wanted to make it more user based and easy to use (buttons and a text box). I used previous projects in order to remind myself of how both input and buttons work. I then taught myself how to connect the generation of the password to the button, and the output of the password to the text box. For the text box, I took my previous output function for the password and placed that object into the createInput function so that when the button is pressed, it prints the password. For the button, I took my previous keyPressed function and replaced it with mousePressed in the button object. I would say that I learned more about objects and functions when working with the input and buttons. Overall, I think I did a great job revising this project.
